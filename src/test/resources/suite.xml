@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="Orange HRM Portal Automation">
+    <test name="Login page test">
+        <classes>
+            <class name="testrunner.LoginPageTestRunner"/>
+        </classes>
+    </test>
+   </suite>
